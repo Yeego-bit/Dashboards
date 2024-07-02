@@ -14,7 +14,7 @@
 
   •	Utilized PowerPoint in making the project’s user interface.
 
-#### PROJECT LINK: 
+#### PROJECT LINK: https://github.com/Yeego-bit/Dashboards/blob/main/Business%20Performance%20Dashboard.pbix
 
 
 
@@ -31,5 +31,5 @@
 
   •	Applied DAX in creating measures to visualize processed data.
 
-#### PROJECT LINK: 
+#### PROJECT LINK: https://github.com/Yeego-bit/Dashboards/blob/main/Profit%20Analysis%20Dashboard.pbix
 
